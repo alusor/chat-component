@@ -1,5 +1,5 @@
 {
-  "name": "chat-component",
+  "name": "@melkored/chat-component",
   "version": "0.1.1",
   "private": false,
   "main": "dist/index.js",
